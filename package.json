@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-dp-api",
+  "version": "1.0.0",
+  "description": "API to fetch WhatsApp DP using international phone number format",
+  "main": "api/whatsapp_dp.js",
+  "scripts": {
+    "start": "node api/whatsapp_dp.js"
+  },
+  "author": "Zero Creations",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "venom-bot": "^5.0.5"
+  }
+}
